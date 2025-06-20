@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmokka=self.webpackChunkmokka||[]).push([[453],{886:function(e,t,a){a.r(t);var n=a(6540),i=a(4055);t.default=()=>n.createElement(i.PE,{title:"Свадьба Агнеты и Жени",description:"Свадьба Агнеты и Жени",keywords:"Свадьба Агнеты и Жени",image:"/preview/og-image.png"},n.createElement(i.hE,{size:"h1"},"404. Page not found"))}}]);
+//# sourceMappingURL=component---src-pages-404-index-tsx-6dbfbd45ecb1534688c2.js.map
